@@ -2,11 +2,15 @@
 
 -----
 
-> **Fork notice:** This repository is a fork of [JNNGL/VanillaMinimaps](https://github.com/JNNGL/VanillaMinimaps),
-> maintained by [@jvaaaa](https://github.com/jvaaaa). Modifications since 2026 include updating
-> compatibility to Minecraft 1.21.8 / 1.21.10 / 1.21.11, fullscreen bug fixes, and permission API
-> updates. All modifications are licensed under the original GPL v3 (see `LICENSE`).
-
+> **Fork Notice**
+>
+> This project is a fork of [jvaaaa/VanillaMinimaps-Next](https://github.com/jvaaaa/VanillaMinimaps-Next), originally developed by [JNNGL](https://github.com/JNNGL/VanillaMinimaps).
+>
+> This fork is independently maintained and focuses on extending the original minimap system into a customizable RPG world map for Minecraft Paper servers.
+>
+> Planned enhancements include interactive fullscreen maps, map zooming and navigation, custom waypoints, RPG location markers, improved terrain rendering, and optimized map caching.
+>
+> This project retains the original GNU General Public License v3.0 (GPL-3.0). All original copyright notices and license terms are preserved.
 A minimap plugin, without any clientside mods.
 
 https://github.com/JNNGL/VanillaMinimaps/assets/45935949/4a6f9cf4-0575-4a46-852e-da11a18edc56
